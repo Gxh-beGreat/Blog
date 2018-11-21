@@ -2,7 +2,7 @@
 title: VueJs - 高阶组件实践
 date: 2017-07-06 15:50:32
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
   - Vue

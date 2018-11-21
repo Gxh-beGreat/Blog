@@ -2,7 +2,7 @@
 title: ES6-Arguments与Parameters用法总结
 date: 2017-05-28 20:58:38
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

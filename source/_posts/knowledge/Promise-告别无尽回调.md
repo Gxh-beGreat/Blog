@@ -2,7 +2,7 @@
 title: Promise - 告别无尽回调
 date: 2017-05-25 09:05:06
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

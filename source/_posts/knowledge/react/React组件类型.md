@@ -3,7 +3,7 @@ title: React - 组件类型
 date: 2017-08-30 08:28:10
 toc: true
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - React
   - JavaScript

@@ -2,7 +2,7 @@
 title: 函数节流 - throttle
 date: 2017-06-07 22:09:27
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

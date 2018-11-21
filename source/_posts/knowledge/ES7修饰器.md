@@ -2,7 +2,7 @@
 title: ES7修饰器
 date: 2017-05-29 23:06:32
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

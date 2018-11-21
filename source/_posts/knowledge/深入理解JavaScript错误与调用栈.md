@@ -2,7 +2,7 @@
 title: 深入理解JavaScript错误与调用栈
 date: 2017-05-27 8:53:27
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

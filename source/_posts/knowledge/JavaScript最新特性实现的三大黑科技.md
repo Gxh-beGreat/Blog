@@ -3,7 +3,7 @@ title: JavaScript 最新特性实现的三大黑科技
 date: 2017-06-19 08:50:32
 toc: true
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
 ---

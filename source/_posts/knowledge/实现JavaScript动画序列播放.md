@@ -4,7 +4,7 @@ date: 2017-06-22 17:50:32
 toc: true
 mathjax: true
 categories:
-  - 知识补全
+  - 前端知识
 tags:
   - JavaScript
   - 动画
